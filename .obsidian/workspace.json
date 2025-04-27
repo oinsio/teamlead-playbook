@@ -11,14 +11,14 @@
             "id": "275d67cf022385d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Добро пожаловать в руководство для тимлида.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Добро пожаловать в руководство для тимлида.md",
+                "bFile": "Добро пожаловать в руководство для тимлида.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Добро пожаловать в руководство для тимлида"
+              "icon": "diff",
+              "title": "Diff: Добро пожаловать в руководство для тимлида"
             }
           }
         ]
@@ -94,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Добро пожаловать в руководство для тимлида.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Добро пожаловать в руководство для тимлида"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -142,13 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Добро пожаловать в руководство для тимлида.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Добро пожаловать в руководство для тимлида"
+              "title": "Структура"
             }
           },
           {
@@ -179,10 +177,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be400d8a825dbd9a",
+  "active": "275d67cf022385d3",
   "lastOpenFiles": [
-    "Обязанности тимлида.md",
     "Добро пожаловать в руководство для тимлида.md",
+    "Обязанности тимлида.md",
     "Как стать тимлидом?.md",
     "teamlead.md",
     "создайте ссылку.md"
