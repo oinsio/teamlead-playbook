@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0278cfbb738fa0a4",
+        "id": "81465fa39292240a",
         "type": "tabs",
         "children": [
           {
-            "id": "275d67cf022385d3",
+            "id": "8f4c22e21d51d13e",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "275d67cf022385d3",
+  "active": "8f4c22e21d51d13e",
   "lastOpenFiles": [
     "Добро пожаловать в руководство для тимлида.md",
     "Обязанности тимлида.md",
