@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81465fa39292240a",
+        "id": "2227e326021b180c",
         "type": "tabs",
         "children": [
           {
-            "id": "8f4c22e21d51d13e",
+            "id": "b3bb1d0af31aee0a",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Добро пожаловать в руководство для тимлида.md",
-                "bFile": "Добро пожаловать в руководство для тимлида.md",
-                "aRef": ""
+                "file": "Что отличает эффективного руководителя от неэффективного?.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Добро пожаловать в руководство для тимлида"
+              "icon": "lucide-file",
+              "title": "Что отличает эффективного руководителя от неэффективного?"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.5
+    "width": 555.5
   },
   "right": {
     "id": "e7cdaf9deb94bc82",
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Добро пожаловать в руководство для тимлида.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для Добро пожаловать в руководство для тимлида"
             }
           },
           {
@@ -141,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Добро пожаловать в руководство для тимлида.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Добро пожаловать в руководство для тимлида"
             }
           },
           {
@@ -158,13 +160,43 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "6d36e8cb413e4b24",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "7dcafe957f6a74ee",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "dae7c37d143bf319",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,14 +206,26 @@
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "8f4c22e21d51d13e",
+  "active": "b3bb1d0af31aee0a",
   "lastOpenFiles": [
-    "Добро пожаловать в руководство для тимлида.md",
-    "Обязанности тимлида.md",
+    "Функции руководителя.md",
+    "Что отличает эффективного руководителя от неэффективного?.md",
+    "Почему именно Вы?.md",
+    "Пирамида управленческих компетенций.md",
+    "Основные обязанности тимлида.md",
+    "Делегирование.md",
     "Как стать тимлидом?.md",
+    "Добро пожаловать в руководство для тимлида.md",
+    "README.md",
+    "Templater/filename-transliteration.js",
+    "Templater",
+    "Обязанности тимлида.md",
     "teamlead.md",
     "создайте ссылку.md"
   ]
