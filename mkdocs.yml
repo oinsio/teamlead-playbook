@@ -18,7 +18,7 @@ theme:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: indigo
-      accent: purple
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
