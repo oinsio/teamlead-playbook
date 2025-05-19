@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Topic/Как стать тимлидом?.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как стать тимлидом?"
+              "title": "index"
             }
           }
         ]
@@ -214,6 +214,7 @@
   },
   "active": "b3bb1d0af31aee0a",
   "lastOpenFiles": [
+    "docs/Topic/Как стать тимлидом.md",
     "docs/index.md",
     "docs/Topic/Добро пожаловать в руководство для тимлида.md",
     "README.md",
@@ -226,7 +227,6 @@
     "docs/Topic/Почему именно Вы?.md",
     "docs/Topic/Пирамида управленческих компетенций.md",
     "docs/Topic/Основные обязанности тимлида.md",
-    "docs/Topic/Как стать тимлидом?.md",
     "docs/Topic",
     "docs/blog/posts/hello-world.md",
     "docs/javascripts/mathjax.js",
