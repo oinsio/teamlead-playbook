@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Что отличает эффективного руководителя от неэффективного?.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Что отличает эффективного руководителя от неэффективного?"
+              "title": "index"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 555.5
+    "width": 375.5
   },
   "right": {
     "id": "e7cdaf9deb94bc82",
@@ -212,17 +212,30 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b3bb1d0af31aee0a",
+  "active": "70bce08a4944ee15",
   "lastOpenFiles": [
-    "Функции руководителя.md",
-    "Что отличает эффективного руководителя от неэффективного?.md",
-    "Почему именно Вы?.md",
-    "Пирамида управленческих компетенций.md",
-    "Основные обязанности тимлида.md",
-    "Делегирование.md",
-    "Как стать тимлидом?.md",
-    "Добро пожаловать в руководство для тимлида.md",
+    "docs/Topic",
+    "docs/Без названия.md",
+    "index.md",
+    "Note 1.md",
     "README.md",
+    "docs/Topic/Что отличает эффективного руководителя от неэффективного?.md",
+    "docs/Topic/Добро пожаловать в руководство для тимлида.md",
+    "mkdocs.yml",
+    "docs/mkdocs.yml",
+    "docs/Features/Text Formatting.md",
+    "docs/Features/Mermaid Diagrams.md",
+    "docs/Features/LaTeX Math Support.md",
+    "docs/Features",
+    "docs/javascripts/mathjax.js",
+    "docs/javascripts",
+    "docs",
+    "docs/Topic/Функции руководителя.md",
+    "docs/Topic/Почему именно Вы?.md",
+    "docs/Topic/Пирамида управленческих компетенций.md",
+    "docs/Topic/Основные обязанности тимлида.md",
+    "Делегирование.md",
+    "docs/Topic/Как стать тимлидом?.md",
     "Templater/filename-transliteration.js",
     "Templater",
     "Обязанности тимлида.md",
