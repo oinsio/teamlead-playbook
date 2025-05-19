@@ -212,14 +212,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "70bce08a4944ee15",
+  "active": "b3bb1d0af31aee0a",
   "lastOpenFiles": [
+    "index.md",
+    "docs/index.md",
     "LICENSE",
     "docs/Topic/Добро пожаловать в руководство для тимлида.md",
-    "docs/index.md",
     "docs/Topic 1/Note 2.md",
     "docs/Topic 1/Note 1.md",
-    "index.md",
     "docs/Topic/Что отличает эффективного руководителя от неэффективного?.md",
     "docs/Topic/Функции руководителя.md",
     "docs/Topic/Почему именно Вы?.md",
@@ -243,7 +243,6 @@
     "Note 1.md",
     "README.md",
     "mkdocs.yml",
-    "docs/mkdocs.yml",
     "Делегирование.md",
     "Обязанности тимлида.md",
     "teamlead.md",
