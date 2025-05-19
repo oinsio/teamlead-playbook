@@ -2,6 +2,7 @@ site_name: Руководство тимлида - Teamlead Handbook
 
 theme:
     name: 'material'
+    language: ru
     palette:
 
     # Light mode
