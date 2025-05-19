@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Topic/Как стать тимлидом?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Как стать тимлидом?"
             }
           }
         ]
@@ -214,8 +214,8 @@
   },
   "active": "b3bb1d0af31aee0a",
   "lastOpenFiles": [
-    "docs/Topic/Добро пожаловать в руководство для тимлида.md",
     "docs/index.md",
+    "docs/Topic/Добро пожаловать в руководство для тимлида.md",
     "README.md",
     "index.md",
     "LICENSE",
