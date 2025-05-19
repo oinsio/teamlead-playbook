@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Topic/Пирамида-управленческих-компетенций.md",
+                "file": "docs/Topic/Как-стать-тимлидом.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пирамида-управленческих-компетенций"
+              "title": "Как-стать-тимлидом"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Topic/Пирамида-управленческих-компетенций.md",
+                "file": "docs/Topic/Как-стать-тимлидом.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Пирамида-управленческих-компетенций"
+              "title": "Обратные ссылки для Как-стать-тимлидом"
             }
           },
           {
@@ -214,20 +214,20 @@
   },
   "active": "b3bb1d0af31aee0a",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/Topic/Как стать тимлидом.md",
-    "TODO.md",
+    "docs/Topic/Что-отличает-эффективного-руководителя-от-неэффективного.md",
+    "docs/Topic/Функции-руководителя.md",
+    "docs/Topic/Почему-именно-Вас-сделали-тимлидом.md",
+    "docs/Topic/Основные-обязанности-тимлида.md",
+    "docs/Topic/Как-стать-тимлидом.md",
     "docs/Topic/Пирамида-управленческих-компетенций.md",
-    "docs/Topic/Основные обязанности тимлида.md",
+    "docs/index.md",
+    "TODO.md",
     "README.md",
     "docs/Topic/Добро пожаловать в руководство для тимлида.md",
     "index.md",
     "LICENSE",
     "docs/Topic 1/Note 2.md",
     "docs/Topic 1/Note 1.md",
-    "docs/Topic/Что отличает эффективного руководителя от неэффективного?.md",
-    "docs/Topic/Функции руководителя.md",
-    "docs/Topic/Почему именно Вы?.md",
     "docs/Topic",
     "docs/blog/posts/hello-world.md",
     "docs/javascripts/mathjax.js",
