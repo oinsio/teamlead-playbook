@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Topic/Как-стать-тимлидом.md",
+                "file": "docs/Topic/Пирамида-управленческих-компетенций.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как-стать-тимлидом"
+              "title": "Пирамида-управленческих-компетенций"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Topic/Как-стать-тимлидом.md",
+                "file": "docs/Topic/Пирамида-управленческих-компетенций.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Как-стать-тимлидом"
+              "title": "Обратные ссылки для Пирамида-управленческих-компетенций"
             }
           },
           {
@@ -214,11 +214,11 @@
   },
   "active": "b3bb1d0af31aee0a",
   "lastOpenFiles": [
+    "docs/Topic/Как-стать-тимлидом.md",
     "docs/Topic/Что-отличает-эффективного-руководителя-от-неэффективного.md",
     "docs/Topic/Функции-руководителя.md",
     "docs/Topic/Почему-именно-Вас-сделали-тимлидом.md",
     "docs/Topic/Основные-обязанности-тимлида.md",
-    "docs/Topic/Как-стать-тимлидом.md",
     "docs/Topic/Пирамида-управленческих-компетенций.md",
     "docs/index.md",
     "TODO.md",
