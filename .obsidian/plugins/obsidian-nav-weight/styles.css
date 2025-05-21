@@ -1,0 +1,7 @@
+.nvt-headless,
+.nvt-retitled {
+    --icon-size: var(--icon-xs);
+}
+.nvt-ribbon-disable {
+    opacity: 0.4;
+}
